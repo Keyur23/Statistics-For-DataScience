@@ -1,6 +1,6 @@
 # Statistics-For-DataScience
 
-This repo focuses on applying foundational statistical techniques using real-world environmental data. It provides a practical understanding of how to analyze, interpret, and communicate insights using probability, distributions, z-scores, and hypothesis testing — all critical skills for any data professional.
+This repo focuses on applying foundational statistical techniques using real-world environmental data. It provides a practical understanding of how to analyze, interpret, and communicate insights using probability, distributions, z-scores, and hypothesis testing, all critical skills for any data professional.
 
 ### Objective
 
